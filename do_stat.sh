@@ -1,4 +1,4 @@
-#New first line
+#New first
 #Runs goostats on list of files
 ##Dean is editing this fiiie
 ##Dean is editing this file again
